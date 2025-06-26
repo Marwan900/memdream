@@ -1,6 +1,6 @@
 # MemDream
 
-**Par Marwan [Nom] et Erwan [Nom]**
+**Par Marwan ELFAKIH et Erwan PRADEILLES**
 
 ---
 
