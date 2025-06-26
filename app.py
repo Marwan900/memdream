@@ -19,7 +19,7 @@ API_KEY = os.getenv("NEBIUS_API_KEY") or "YOUR_API_KEY"
 # Initialisation du client Nebius
 client = OpenAI(
     base_url="https://api.studio.nebius.com/v1/",
-    api_key='eyJhbGciOiJIUzI1NiIsImtpZCI6IlV6SXJWd1h0dnprLVRvdzlLZWstc0M1akptWXBvX1VaVkxUZlpnMDRlOFUiLCJ0eXAiOiJKV1QifQ.eyJzdWIiOiJnb29nbGUtb2F1dGgyfDEwNDgwNDEyODkyNjY3NDgxODExMyIsInNjb3BlIjoib3BlbmlkIG9mZmxpbmVfYWNjZXNzIiwiaXNzIjoiYXBpX2tleV9pc3N1ZXIiLCJhdWQiOlsiaHR0cHM6Ly9uZWJpdXMtaW5mZXJlbmNlLmV1LmF1dGgwLmNvbS9hcGkvdjIvIl0sImV4cCI6MTkwNjAyNzMyOCwidXVpZCI6IjMzOWZkOTg4LWFiOGEtNGVmYy04MzM1LTU4ZWU1YmU4NDFiNyIsIm5hbWUiOiJtZW1kcmVhbSIsImV4cGlyZXNfYXQiOiIyMDMwLTA1LTI2VDEyOjAyOjA4KzAwMDAifQ.Nfx0eFBtSe62YrIuxiPlJxJxcV9rALBZmhIw_bxI_MA'
+    api_key=''
 )
 
 # Modèles IA
